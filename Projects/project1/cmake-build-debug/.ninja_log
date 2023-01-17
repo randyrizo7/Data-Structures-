@@ -1,0 +1,9 @@
+# ninja log v5
+0	109	1673945946757873361	build.ninja	519f4423a4ab2b7e
+1	789	1666162232537014145	CMakeFiles/project1.dir/main.cpp.o	ba2d06a1a9bffa66
+2	620	1666667365075503236	CMakeFiles/project1.dir/BookList.cpp.o	b92f8387b1ee8db7
+1	576	1666924457256655331	CMakeFiles/project1.dir/p1.cpp.o	95d4f12b3367fdf
+1	401	1666924457077660195	CMakeFiles/project1.dir/RatingList.cpp.o	543112e97491eaa1
+2	687	1666924083443609157	CMakeFiles/project1.dir/RatingsList.cpp.o	3e17dbebbf38149b
+1	442	1666667387988439079	CMakeFiles/project1.dir/MemberList.cpp.o	234b4b62914328c0
+577	632	1666924457315273443	project1	f45512f5ccc655c8

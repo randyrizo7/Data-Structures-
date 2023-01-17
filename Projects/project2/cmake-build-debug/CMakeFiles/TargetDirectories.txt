@@ -1,0 +1,3 @@
+/Users/randyrizo/CLionProjects/project2/cmake-build-debug/CMakeFiles/project2.dir
+/Users/randyrizo/CLionProjects/project2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/randyrizo/CLionProjects/project2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
